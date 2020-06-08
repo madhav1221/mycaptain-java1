@@ -1,0 +1,23 @@
+
+import java.util.Scanner;
+
+public class switch
+
+    public static void main(String[] args) {
+ Int select;
+ System.out.Pritln("choose any one: 1. Good morning/t2,Good evening/t3,Good night/t")
+ Scanner s = new scanner(system.in);
+ Select = s.nextint();
+ Switch(select)
+ Case 1 :
+ System.out.Pritln(" you choose Good morning");
+ Break;
+ Case 2:
+ System.out.Pritln("you choose Good evening ");
+ Break;
+ Case 3:
+ System.out.Pritln("you choose Good night");
+ Default:System.out.Pritln("invalid choice );
+}
+
+ }
